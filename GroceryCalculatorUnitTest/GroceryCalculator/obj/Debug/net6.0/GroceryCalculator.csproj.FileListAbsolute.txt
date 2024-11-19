@@ -1,0 +1,14 @@
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\bin\Debug\net6.0\GroceryCalculator.exe
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\bin\Debug\net6.0\GroceryCalculator.deps.json
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\bin\Debug\net6.0\GroceryCalculator.runtimeconfig.json
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\bin\Debug\net6.0\GroceryCalculator.dll
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\bin\Debug\net6.0\GroceryCalculator.pdb
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\obj\Debug\net6.0\GroceryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\obj\Debug\net6.0\GroceryCalculator.AssemblyInfoInputs.cache
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\obj\Debug\net6.0\GroceryCalculator.AssemblyInfo.cs
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\obj\Debug\net6.0\GroceryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\obj\Debug\net6.0\GroceryCalculator.dll
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\obj\Debug\net6.0\refint\GroceryCalculator.dll
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\obj\Debug\net6.0\GroceryCalculator.pdb
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\obj\Debug\net6.0\GroceryCalculator.genruntimeconfig.cache
+C:\Users\rahulmaddheshiya\Downloads\GroceryCalculatorUnitTest\GroceryCalculator\obj\Debug\net6.0\ref\GroceryCalculator.dll

@@ -1,0 +1,18 @@
+<div class="summary-container">
+    <h2>Grocery Summary</h2>
+    <div *ngIf="items.length === 0">No items found.</div>
+    <ul *ngIf="items.length > 0">
+      <li *ngFor="let item of items; let i = index">
+        <div class="item-details">
+          <span>{{ i + 1 }}. {{ item.name }} - </span>
+          <span>{{ item.quantity }}  &#64; ${{ item.price }} each</span>
+          <span>= ${{ item.price * item.quantity }}</span>
+        </div>
+      </li>
+    </ul>
+    <div *ngIf="items.length > 0" class="total-cost">
+      <strong>Total Cost:</strong> ${{ totalCost }}
+    </div>
+    <button (click)="clearAll()">Clear All</button>
+  </div>
+  

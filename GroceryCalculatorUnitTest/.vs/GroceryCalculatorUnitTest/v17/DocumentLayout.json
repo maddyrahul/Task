@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{969C8108-61DF-4E8F-B497-72D685A0B3C8}|GroceryShopCalculatorUnitTest\\GroceryShopCalculatorUnitTest.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\task\\grocerycalculatorunittest\\groceryshopcalculatorunittest\\tests\\grocerycalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969C8108-61DF-4E8F-B497-72D685A0B3C8}|GroceryShopCalculatorUnitTest\\GroceryShopCalculatorUnitTest.csproj|solutionrelative:groceryshopcalculatorunittest\\tests\\grocerycalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4DCAAF-7513-4BAD-B5FA-CA05E5573BF5}|GroceryCalculator\\GroceryCalculator.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\task\\grocerycalculatorunittest\\grocerycalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4DCAAF-7513-4BAD-B5FA-CA05E5573BF5}|GroceryCalculator\\GroceryCalculator.csproj|solutionrelative:grocerycalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4DCAAF-7513-4BAD-B5FA-CA05E5573BF5}|GroceryCalculator\\GroceryCalculator.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\task\\grocerycalculatorunittest\\grocerycalculator\\dependencies\\iconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4DCAAF-7513-4BAD-B5FA-CA05E5573BF5}|GroceryCalculator\\GroceryCalculator.csproj|solutionrelative:grocerycalculator\\dependencies\\iconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4DCAAF-7513-4BAD-B5FA-CA05E5573BF5}|GroceryCalculator\\GroceryCalculator.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\task\\grocerycalculatorunittest\\grocerycalculator\\dependencies\\consolewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4DCAAF-7513-4BAD-B5FA-CA05E5573BF5}|GroceryCalculator\\GroceryCalculator.csproj|solutionrelative:grocerycalculator\\dependencies\\consolewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4DCAAF-7513-4BAD-B5FA-CA05E5573BF5}|GroceryCalculator\\GroceryCalculator.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\task\\grocerycalculatorunittest\\grocerycalculator\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4DCAAF-7513-4BAD-B5FA-CA05E5573BF5}|GroceryCalculator\\GroceryCalculator.csproj|solutionrelative:grocerycalculator\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4DCAAF-7513-4BAD-B5FA-CA05E5573BF5}|GroceryCalculator\\GroceryCalculator.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\task\\grocerycalculatorunittest\\grocerycalculator\\services\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4DCAAF-7513-4BAD-B5FA-CA05E5573BF5}|GroceryCalculator\\GroceryCalculator.csproj|solutionrelative:grocerycalculator\\services\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryCalculator\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "GroceryCalculator\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryCalculator\\Models\\Item.cs",
+              "RelativeToolTip": "GroceryCalculator\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:31:57.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryCalculator\\Dependencies\\ConsoleWrapper.cs",
+              "RelativeDocumentMoniker": "GroceryCalculator\\Dependencies\\ConsoleWrapper.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryCalculator\\Dependencies\\ConsoleWrapper.cs",
+              "RelativeToolTip": "GroceryCalculator\\Dependencies\\ConsoleWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:39:41.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IConsole.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryCalculator\\Dependencies\\IConsole.cs",
+              "RelativeDocumentMoniker": "GroceryCalculator\\Dependencies\\IConsole.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryCalculator\\Dependencies\\IConsole.cs",
+              "RelativeToolTip": "GroceryCalculator\\Dependencies\\IConsole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:39:26.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroceryCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryShopCalculatorUnitTest\\Tests\\GroceryCalculatorTests.cs",
+              "RelativeDocumentMoniker": "GroceryShopCalculatorUnitTest\\Tests\\GroceryCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryShopCalculatorUnitTest\\Tests\\GroceryCalculatorTests.cs",
+              "RelativeToolTip": "GroceryShopCalculatorUnitTest\\Tests\\GroceryCalculatorTests.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAcwLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:41:23.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "GroceryCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryCalculator\\Program.cs",
+              "RelativeToolTip": "GroceryCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:31:20.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryCalculator\\Services\\Calculator.cs",
+              "RelativeDocumentMoniker": "GroceryCalculator\\Services\\Calculator.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Task\\GroceryCalculatorUnitTest\\GroceryCalculator\\Services\\Calculator.cs",
+              "RelativeToolTip": "GroceryCalculator\\Services\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:32:34.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
